@@ -11,7 +11,9 @@ nav{
 ul li{
     padding: 8px;
     list-style: none;
+    border: 19px solid black;
 }
+
 
 ul a{
     color: white;
