@@ -1,0 +1,19 @@
+nav ul{
+    list-style: none;
+    display:flex;
+    justify-items: center;
+}
+
+nav{
+    background-color: blueviolet;
+}
+
+ul li{
+    padding: 8px;
+    list-style: none;
+}
+
+ul a{
+    color: white;
+    
+}
